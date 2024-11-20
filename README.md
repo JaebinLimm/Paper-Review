@@ -1,6 +1,6 @@
 # Paper-Review
-My YouTube link and blog address about Deep Learning Paper Review
-
+<!--My YouTube link and blog address about Deep Learning Paper Review-->
+My Blog address about Deep Learning Paper Review
 
 | Title | Published | Link |Keywords|
 |:---------------:|:-------------:|:-------------:|:-----------:|
