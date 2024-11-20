@@ -3,7 +3,7 @@ My YouTube link and blog address about Deep Learning Paper Review
 
 
 | Title | Published | Link |Keywords|
-|:---------------|:-------------:|:-------------:|:-----------:|
+|:---------------:|:-------------:|:-------------:|:-----------:|
 | End-to-End Object Detection with Transformers | ECCV2020 |[Blog](https://limjeabin.tistory.com/20)<br> [Paper](https://arxiv.org/abs/2005.12872)|Object Detection|
 | ESCAPE: Encoding Super-keypoints for Category-Agnostic Pose Estimation | CVPR2024 |[Blog](https://limjeabin.tistory.com/19)<br> [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Nguyen_ESCAPE_Encoding_Super-keypoints_for_Category-Agnostic_Pose_Estimation_CVPR_2024_paper.html)|Pose Estimation|
 | Open-World Semantic Segmentation Including Class Similarity | CVPR2024 |[Blog](https://limjeabin.tistory.com/18)<br> [Paper](https://arxiv.org/abs/2403.07532)|Semantic Segmentation|
